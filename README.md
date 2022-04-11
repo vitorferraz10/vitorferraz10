@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm working as a full stack developer
+- 🔭 I'm working as a full stack developer (front end specialist)
 - 🌱 Studying backend and clean architecture
 - 🤔 I’m looking for help with react/typescript
 - 📫 How to reach me: vitorferrazmaciel@gmail.com
